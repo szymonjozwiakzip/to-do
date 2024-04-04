@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Caveat+Brush&display=swap');
 
 body {
-    background-image:url('https://cdn.glitch.com/cd3369a7-e614-49a9-93c1-8871829b4d63%2Fandrew-neel-cckf4TsHAuw-unsplash.jpg?v=1584885423509');
+    background-image: url('https://cdn.glitch.com/cd3369a7-e614-49a9-93c1-8871829b4d63%2Fandrew-neel-cckf4TsHAuw-unsplash.jpg?v=1584885423509');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    font-family: 'Caveat Brush', cursive;
+    font-family: 'Arial', sans-serif;
 }
 
 #addElement {
