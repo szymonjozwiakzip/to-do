@@ -1,6 +1,13 @@
-JS app to make to do list with possibility to print it.
+📓 Witaj w ToDo! 📓
 
-To open this app you can for example use python 3 like this:
+ToDo to prosta aplikacja JS ułatwiająca planowanie spraw życia codziennego. Prosty design sprawia, że każdy korzystając z ToDo czuje się komfortowo.
+
+Użytkownik może dodać zadanie wpisując je w wyznaczone miejsce oraz klikając Add Task. Poniżej wyświetli się lista aktualnie dodanych zadań.
+
+Dodatkowo użytkownik może wydrukować sobie zadania, by móc wziąć plan dnia ze sobą.
+
+Kompilacja :
+
+git clone https://github.com/szymonjozwiakzip/to-do
 
 python3 -m http.server
-
